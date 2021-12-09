@@ -16,18 +16,18 @@ I have successfully completed **Yandex Lyceum**, as well as courses at **Tinkoff
 Now I participate in hackathons to develop my **hard** and **soft skills**.
 
 ## :trophy: GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Lednik7&theme=alduin)
+![trophy](https://github-profile-trophy.vercel.app/?username=Urezzzer&theme=alduin)
 
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
-<a href="https://github.com/Lednik7">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lednik7&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=3" />
+<a href="https://github.com/Urezzzer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urezzzer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=3" />
 </a>
 
-<a href="https://github.com/Lednik7">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Lednik7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Urezzzer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Urezzzer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
 <br>
