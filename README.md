@@ -1,10 +1,9 @@
-[![GitHub Banner](./assets/GitHubHeader.png)](https://github.com/Lednik7)
+[![GitHub Banner](./assets/GitHubHeader.png)](https://github.com/Urezzzer)
 
-[![Stepik Badge](https://img.shields.io/badge/Stepik-profile-lightgrey)](https://stepik.org/users/47953916)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-yellow)](https://www.kaggle.com/mygaps)
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-profile-orange)](https://codeforces.com/profile/Takeda)
+[![Stepik Badge](https://img.shields.io/badge/Stepik-profile-lightgrey)](https://stepik.org/users/78984051)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-yellow)](https://www.kaggle.com/iuriierilov)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lednik7.Lednik7)
-[![GitHub Lednik7](https://img.shields.io/github/followers/Lednik7?label=follow&style=social)](https://github.com/Lednik7)
+[![GitHub Urezzzer](https://img.shields.io/github/followers/Urezzzer?label=follow&style=social)](https://github.com/Urezzzer)
 
 ## Hi there 👋
 
