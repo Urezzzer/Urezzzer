@@ -13,7 +13,7 @@ I'm Iurii, a young **Data Scientist** and **Designer**
 * As well as I learned other fields of data sciense
 * have **designing, management skills of project**
 * know graphic design
-* Study high math 
+* study high math 
 
 I develop various models for practical purposes and also quite often participate in professional activities.
 
