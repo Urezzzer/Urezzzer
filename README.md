@@ -56,6 +56,8 @@ Now I participate in hackathons to develop my **hard** and **soft skills**.
 ![](https://img.shields.io/badge/Library-Spacy-informational?style=flat&logo=Spacy&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-Scikit-learn-informational?style=flat&logo=Scikit-learn&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-Natasha-informational?style=flat&logo=Natasha&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Pymorphy2-informational?style=flat&logo=Pymorphy2&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Swifter-informational?style=flat&logo=Swifter&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
