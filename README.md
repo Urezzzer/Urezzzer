@@ -1,4 +1,4 @@
-[![GitHub Banner](./assets/GitHubHeader.png)](https://github.com/Urezzzer)
+[![GitHub Banner](./assets/Header.png)](https://github.com/Urezzzer)
 
 [![Stepik Badge](https://img.shields.io/badge/Stepik-profile-lightgrey)](https://stepik.org/users/78984051)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-yellow)](https://www.kaggle.com/iuriierilov)
