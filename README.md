@@ -1,7 +1,7 @@
 [![GitHub Banner](./assets/Header.png)](https://github.com/Urezzzer)
 
 [![Stepik Badge](https://img.shields.io/badge/Stepik-profile-lightgrey)](https://stepik.org/users/78984051)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-yellow)](https://www.kaggle.com/iuriierilov)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-lightblue)](https://www.kaggle.com/iuriierilov)
 [![Coursera Badge](https://img.shields.io/badge/Coursera-profile-darkblue)](https://www.coursera.org/user/b2ae5d551b0143a326c468ab198bc015)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Urezzzer.Urezzzer)
 [![GitHub Urezzzer](https://img.shields.io/github/followers/Urezzzer?label=follow&style=social)](https://github.com/Urezzzer)
