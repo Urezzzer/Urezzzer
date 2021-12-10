@@ -44,6 +44,7 @@ Now I participate in hackathons to develop my **hard** and **soft skills**.
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-с++-informational?style=flat&logo=с++&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-Prophet-informational?style=flat&logo=Prophet&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=4AB197)
