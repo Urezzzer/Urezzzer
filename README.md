@@ -61,9 +61,7 @@ Now I participate in hackathons to develop my **hard** and **soft skills**.
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Code_Style-PEP8-informational?style=flat&logo=PEP8&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Graphic-Design-PEP8-informational?style=flat&logo=PEP8&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Principle-OOP-informational?style=flat&logo=OOP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Methodology-Scrum-informational?style=flat&logo=Scrum&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Methodology-Agile-informational?style=flat&logo=Agile&logoColor=white&color=4AB197)
