@@ -40,7 +40,6 @@ Now I participate in hackathons to develop my **hard** and **soft skills**.
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Framework-Keras-informational?style=flat&logo=Keras&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=4AB197)
@@ -56,6 +55,7 @@ Now I participate in hackathons to develop my **hard** and **soft skills**.
 ![](https://img.shields.io/badge/Library-Xgboost-informational?style=flat&logo=xgboost&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-Spacy-informational?style=flat&logo=Spacy&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Library-Scikit-learn-informational?style=flat&logo=Scikit-learn&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Natasha-informational?style=flat&logo=Natasha&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
