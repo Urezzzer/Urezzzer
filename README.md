@@ -8,12 +8,17 @@
 
 ## Hi there 👋
 
-I'm Iurii, a young **Data Scientist** and **Designer**, have experience working with  **Time Series, NLP, CV, Graphic Design**. I learned other fields of data sciense also.
+I'm Iurii, a young **Data Scientist** and **Designer** 
+* have experience working with  **Time Series, NLP, CV**
+* As well as I learned other fields of data sciense
+* have **designing, management skills of project**
+* know graphic design
+
 I develop various models for practical purposes and also quite often participate in professional activities.
 
-Want to know more about me?
+More about me
 
-I have successfully completed **Yandex Lyceum**, as well as courses at **Tinkoff Education**.
+I am studying software engineering at fefu, completed **Deep Learning School**, as well as courses at **Coursera**.
 Now I participate in hackathons to develop my **hard** and **soft skills**.
 
 ## :trophy: GitHub Profile Trophy
