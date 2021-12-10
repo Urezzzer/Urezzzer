@@ -8,8 +8,8 @@
 
 ## Hi there 👋
 
-I'm Maxim, a young **Data Scientist**, creative programmer with **Time Series and NLP**.
-I develop various models for practical purposes, create libraries for other programmers, and also quite often participate in professional activities.
+I'm Iurii, a young **Data Scientist** and **Designer**, have experience working with  **Time Series, NLP, CV, Graphic Design**. I learned other fields of data sciense also.
+I develop various models for practical purposes and also quite often participate in professional activities.
 
 Want to know more about me?
 
