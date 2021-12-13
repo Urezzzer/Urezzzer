@@ -10,11 +10,10 @@
 ## Hi there 👋
 
 I'm Iurii, a young **Data Scientist** and **Designer** 
-* have experience working with  **Time Series, NLP, CV**
-* As well as I learned other fields of data sciense
-* have **designing, management skills of project**
+* have experience working with  **Time Series, NLP, CV, Audio**
+* have **designing, management skills of project** (Software engineering at FEFU)
 * know graphic design
-* study high math 
+* studying high maths 
 
 I develop various models for practical purposes and also quite often participate in professional activities.
 
