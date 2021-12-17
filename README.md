@@ -16,7 +16,7 @@ I'm Iurii, a young **Data Scientist** and **Designer**
 * studying high maths 
 
 I develop various models for practical purposes and also quite often participate in professional activities.
----
+
 ## More about me
 
 I am studying software engineering at fefu, completed **Deep Learning School**, as well as courses at **Coursera**.
