@@ -22,23 +22,6 @@ I develop various models for practical purposes and also quite often participate
 I am studying software engineering at fefu, completed **Deep Learning School**, as well as courses at **Coursera**.
 Now I participate in hackathons to develop my **hard** and **soft skills**.
 
-## :trophy: GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Urezzzer&theme=alduin)
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/Urezzzer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urezzzer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=3" />
-</a>
-
-<a href="https://github.com/Urezzzer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Urezzzer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=4AB197)
@@ -73,3 +56,21 @@ Now I participate in hackathons to develop my **hard** and **soft skills**.
 <br>
 
 </details>
+
+
+## :trophy: GitHub Profile Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Urezzzer&theme=alduin)
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/Urezzzer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urezzzer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=3" />
+</a>
+
+<a href="https://github.com/Urezzzer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Urezzzer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
