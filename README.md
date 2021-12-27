@@ -11,8 +11,8 @@
 
 I'm Iurii, a young **Data Scientist** and **Designer** 
 * have experience working with  **ML, DL, Time Series, NLP, CV, Audio**
-* have **design, management project skills** (Software engineering at FEFU)
-* know graphic design
+* have **management project skills** (Software engineering at FEFU)
+* know **graphic design**
 * studying high maths 
 
 I develop various models for practical purposes and also quite often participate in professional activities.
