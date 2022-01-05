@@ -20,7 +20,7 @@ I develop various models for practical purposes and also quite often participate
 ## More about me
 
 I am studying software engineering at fefu, completed [**Deep Learning School**](https://github.com/Urezzzer/deep_learning_school_mipt_fall_2021), as well as courses at **Coursera**.
-Now I participate in hackathons to develop my **hard** and **soft skills**.
+Often I participate in hackathons to develop my **hard** and **soft skills**.
 
 ## 💼 Skills
 
