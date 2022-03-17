@@ -7,7 +7,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Urezzzer.Urezzzer)
 [![GitHub Urezzzer](https://img.shields.io/github/followers/Urezzzer?label=follow&style=social)](https://github.com/Urezzzer)
 
-I am working on [Vision Transformer for Image Captioning](https://github.com/Urezzzer/ViT-for-Image-Captioning) now
 ---
 ## Hi there 👋
 
