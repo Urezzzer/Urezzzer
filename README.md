@@ -1,5 +1,3 @@
-[![GitHub Banner](./header.jpg)](https://github.com/Urezzzer)
-
 [![Telegram Badge](https://img.shields.io/badge/Telegram-profile-blue)](https://t.me/urezzzer)
 [![Stepik Badge](https://img.shields.io/badge/Stepik-profile-lightgrey)](https://stepik.org/users/78984051)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-lightblue)](https://www.kaggle.com/iuriierilov)
