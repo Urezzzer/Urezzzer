@@ -1,4 +1,4 @@
-[![GitHub Banner](./assets/Header.png)](https://github.com/Urezzzer)
+[![GitHub Banner](./Header.png)](https://github.com/Urezzzer)
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-profile-blue)](https://t.me/urezzzer)
 [![Stepik Badge](https://img.shields.io/badge/Stepik-profile-lightgrey)](https://stepik.org/users/78984051)
