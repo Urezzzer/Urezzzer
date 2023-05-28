@@ -8,7 +8,7 @@
 ---
 ## Hi there 👋
 
-I'm Iurii, a young **Data Scientist**
+I'm Iurii, a **Data Scientist**
 * have experience working with  **ML, DL, Time Series, NLP, CV, Audio**
 * have **management project skills** (Software engineering at FEFU)
 * know basic of **graphic design**
